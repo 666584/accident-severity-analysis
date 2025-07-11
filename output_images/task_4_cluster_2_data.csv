@@ -1,0 +1,12 @@
+Cluster,Category,data,Count
+2,SPEED_ZONE,50-60,40199
+2,SPEED_ZONE,70-80,12820
+2,SPEED_ZONE,30-40,5446
+2,ROAD_TYPE,residential_road_type,54250
+2,ROAD_TYPE,rural_road_type,2735
+2,ROAD_TYPE,intercity_road_type,1480
+2,ROAD_GEOMETRY,not at intersection,58465
+2,SEVERITY,1,797
+2,SEVERITY,2,21132
+2,SEVERITY,3,36536
+2,SEVERITY,4,0

@@ -1,0 +1,18 @@
+Cluster,Category,data,Count
+1,SPEED_ZONE,50-60,28019
+1,SPEED_ZONE,70-80,8603
+1,SPEED_ZONE,30-40,3161
+1,ROAD_TYPE,residential_road_type,35452
+1,ROAD_TYPE,intercity_road_type,3379
+1,ROAD_TYPE,rural_road_type,952
+1,ROAD_GEOMETRY,Cross intersection,37626
+1,ROAD_GEOMETRY,multiple intersection,1582
+1,ROAD_GEOMETRY,Y-intersection,314
+1,ROAD_GEOMETRY,Unknown,132
+1,ROAD_GEOMETRY,Dead end,119
+1,ROAD_GEOMETRY,Private property,7
+1,ROAD_GEOMETRY,Road closure,3
+1,SEVERITY,1,287
+1,SEVERITY,2,12447
+1,SEVERITY,3,27048
+1,SEVERITY,4,1
